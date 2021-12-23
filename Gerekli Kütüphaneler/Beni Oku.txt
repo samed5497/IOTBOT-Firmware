@@ -1,1 +1,14 @@
-ddd
+Arduino Ide’ye Esp32 Kartını Yüklemek için şu adımları izleyelim: 
+
+Aşağıdaki linkleri kopyalayın.(2. link esp8266 linki için esp8266 varsa bunu kullanabilirsiniz.)
+
+"https://dl.espressif.com/dl/package_esp32_index.json"
+"http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+
+Arduino Ide’yi açıyoruz ve Dosya>>Tercihlere tıklıyoruz.
+
+Ardından Ek Devre Kartları Yönetici URL’leri bölümüne bu iki linki yapıştırıyoruz ve tamam deyip çıkıyoruz. Şuan Esp32 ve Esp8266 kartlarının dosyalarının bulunduğu linki Arduino Ide’ye atmış olduk.
+
+Esp32 dosyalarını indirmek için. Araçlar >> Kartlar >> Kart Yöneticisine tıklıyoruz.
+Kart bilgilerini yükledikten sonra arama kısmına esp32 yazıyoruz çıkan karta tıklayıp yüklüyoruz.
+
