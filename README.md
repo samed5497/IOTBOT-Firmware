@@ -4,8 +4,9 @@ _Test Series_
 
 ![0001](https://user-images.githubusercontent.com/29681734/147276468-31c49ba0-35c8-4051-94b8-cfa8085ccd3c.jpg)
 
+[tr] İnternet odaklı robotik kodlama eğitim seti olarak tasarlanan ve ESP32 işlemciden gücünü alan IoTBOT, üzerinde bulunan birçok sensör ile projelerde sınır tanımıyor. Sadece anakartı test etmek için yazılmış olan bu yazılım şimdilik bir başlangıç. Sette yer alan tüm sensörler ve internet uygulamaları için yazılım çalışmaları son hızla devam ediyor....
 
-IOTBOT, which is designed as an Internet-oriented robotic coding training kit and powered by the ESP32 processor, knows no limits in projects with the many sensors it has on it. This software, which was written just for testing the motherboard, is a start for now. Software work for all sensors and Internet applications included in the set continues at the latest pace....
+[en] IOTBOT, which is designed as an Internet-oriented robotic coding training kit and powered by the ESP32 processor, knows no limits in projects with the many sensors it has on it. This software, which was written just for testing the motherboard, is a start for now. Software work for all sensors and Internet applications included in the set continues at the latest pace....
 
 ![DSC08720](https://user-images.githubusercontent.com/29681734/147276239-3485f32b-0f12-4a26-8414-313b21543e45.JPG)
 
